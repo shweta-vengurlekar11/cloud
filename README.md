@@ -9,7 +9,7 @@ There are Two ways You can check for g++ compiler
   
   when you run this command you will get list of compiler your system has.in which you can find for g++ compiler.
   
-	``` g++ --version/ gcc --version ```
+	```$ g++ --version/ gcc --version ```
   
   when you run this command you will get like this message on terminal.
     
