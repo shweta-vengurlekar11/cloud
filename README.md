@@ -9,9 +9,10 @@ There are Two ways You can check for g++ compiler
   
   when you run this command you will get list of compiler your system has.in which you can find for g++ compiler.
   
-	```$ g++ --version/ gcc --version ```
+	``` $ g++ --version/ gcc --version ```
   
   when you run this command you will get like this message on terminal.
     
-    ![image](https://user-images.githubusercontent.com/63588827/80825542-4099d980-8bfe-11ea-915b-c1eb8359711b.png)
+    ![image](https://user-images.githubusercontent.com/63588827/80829312-85287380-8c04-11ea-8c57-e4cf7a236c9b.png)
+
 
