@@ -35,8 +35,7 @@ then go that directory/folder by command
 
 press 'i' and go in the insert mode.you can check for insert mode at the end of the terminal then write your code in vi editor
 
-
-
+![image](https://user-images.githubusercontent.com/63588827/80832469-5b724b00-8c0a-11ea-8b8e-2d9f7dae6ffe.png)
 
     
   
