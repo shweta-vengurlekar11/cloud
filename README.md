@@ -21,7 +21,7 @@ If you are getting error finding g++ compiler then you can run this command
 
 using this command you can install g++ compiler.
 
-## step 3: make one folder name 'cpp'.
+## step 3: Make one folder name 'cpp'.
 
 ``` mkdir cpp```
 
@@ -29,7 +29,7 @@ then go that directory/folder by command
 
 ```cd cpp/```
 
-## step 4: create new cpp file in vi editor
+## step 4: Create new cpp file with help of vi editor
 
 ``` vi addtwono.cpp```
 
@@ -37,7 +37,30 @@ press 'i' and go in the insert mode.you can check for insert mode at the end of 
 
 ![image](https://user-images.githubusercontent.com/63588827/80832469-5b724b00-8c0a-11ea-8b8e-2d9f7dae6ffe.png)
 
-    
-  
+after complete the code press 'esc' key.after that press ':wq' to write and commmit the changes made to the file.
+
+## step 5: Compile the program
+
+you can compile file by the command below:
+
+```g++ first.cpp```
+
+by this command compiler will create one output file to your directory
+but you can name that file by the command below instead of the command above
+
+```g++ first.cpp -o first```
+
+so output file will be created with the name of 'first'.and if file have any compile time error or warnings it will show after running of command.
+
+
+## step 6: Execute you output file
+
+now command is 
+
+```./first```
+
+this command will give you output.
+
+
 
 
