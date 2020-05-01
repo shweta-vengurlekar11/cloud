@@ -31,3 +31,7 @@ return 0;
 
 }
 ```
+
+output:
+
+![image](https://user-images.githubusercontent.com/63588827/80831087-c9694300-8c07-11ea-9d95-0c18a59d3e95.png)
