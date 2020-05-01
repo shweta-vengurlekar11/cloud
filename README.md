@@ -66,5 +66,5 @@ this command will give you output.
 So, these are the steps to compile and execute the cpp files in linux.
 
 here are some more examples to try on:
-1. [ADD TWO NUMBERS](https://https://github.com/shweta-vengurlekar11/cloud/blob/master/addtwono.md)
+1. [ADD TWO NUMBERS](https://github.com/shweta-vengurlekar11/cloud/blob/master/addtwono.md)
 
