@@ -13,6 +13,6 @@ when you run this command you will get list of compiler your system has.in which
   
 when you run this command you will get like this message on terminal.
     
-    ![image](https://user-images.githubusercontent.com/63588827/80829312-85287380-8c04-11ea-8c57-e4cf7a236c9b.png)
+  
 
 
