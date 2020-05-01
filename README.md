@@ -61,6 +61,10 @@ now command is
 
 this command will give you output.
 
+![image](https://user-images.githubusercontent.com/63588827/80836888-5239ac00-8c13-11ea-90f0-0f69419f7b43.png)
 
+So, these are the steps to compile and execute the cpp files in linux.
 
+here are some more examples to try on:
+1. [ADD TWO NUMBERS](https://addtwono.md)
 
