@@ -14,4 +14,5 @@ There are Two ways You can check for g++ compiler
   when you run this command you will get like this message on terminal.
   
   
-     ![image](https://user-images.githubusercontent.com/63588827/80825542-4099d980-8bfe-11ea-915b-c1eb8359711b.png)
+    ![image](https://user-images.githubusercontent.com/63588827/80825542-4099d980-8bfe-11ea-915b-c1eb8359711b.png)
+
