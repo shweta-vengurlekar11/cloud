@@ -1,4 +1,4 @@
-# **HOW TO COMPILE AND EXECUTE CPP PROGRAM FILES IN LINUX**
+# **HOW TO COMPILE AND EXECUTE CPP PROGRAM FILES ON LINUX**
 
 # STEPS
 ## step 1. Open terminal.
@@ -67,8 +67,8 @@ So, these are the steps to compile and execute the cpp files in linux.
 
 here are some more examples to try on:
 
-1. [FUNCTION CALL FROM ANOTHER CLASS](https://github.com/shweta-vengurlekar11/cloud/blob/master/callingfunction.md)
-2. [STRING CONCANATION](https://github.com/shweta-vengurlekar11/cloud/blob/master/concationstring.md)
-3. [VIRTUAL FUNCTION](https://github.com/shweta-vengurlekar11/cloud/blob/master/virtualfunction.md)
-4. [FIBONACCI SERIES](https://github.com/shweta-vengurlekar11/cloud/blob/master/fibonacciseries.md)
+1. [FUNCTION CALL FROM ANOTHER CLASS](https://github.com/shweta-vengurlekar11/cloud/blob/CPP-ON-LINUX/callingfunction.md)
+2. [STRING CONCANATION](https://github.com/shweta-vengurlekar11/cloud/blob/CPP-ON-LINUX/concationstring.md)
+3. [VIRTUAL FUNCTION](https://github.com/shweta-vengurlekar11/cloud/blob/CPP-ON-LINUX/fibonacciseries.md)
+4. [FIBONACCI SERIES](https://github.com/shweta-vengurlekar11/cloud/blob/CPP-ON-LINUX/virtualfunction.md)
 
