@@ -5,9 +5,9 @@ Cloud is the customized and on-demand delivery of resources over the Internet wi
 
 Cloud mainly have 3 types:
 
-public cloud:resources provided to use by anyone.via internet.eg.amazon provides aws,microsoft provides azure.
-private cloud:resources provided to the authorized people which are part of organization.
-hybrid cloud:it is the combination of private and public cloud.lets say 1 organization has their own employee using private cloud and has customers that are using public cloud.
+1. *public cloud*: resources provided to use by anyone.via internet.eg.amazon provides aws,microsoft provides azure.
+2. *private cloud*: resources provided to the authorized people which are part of organization.
+3. *hybrid cloud*: it is the combination of private and public cloud.lets say 1 organization has their own employee using private cloud and has customers that are using public cloud.
 
 ## Advantages of cloud:
 1. cost effective:you need not to pay huge amount for the resources at one time.on cloud we need to pay only for the resources which we are using. Eg.we created a laptop which has some resouces . so for period of time we are using laptop we have to pay some rent for that resources.
