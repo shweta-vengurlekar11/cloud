@@ -1,7 +1,7 @@
 # **CLOUD COMPUTING**
 
-## What is cloud?
-Cloud which has resources can be computed as rent .as per the resouces used you pay cost which is called as rent.
+## What is cloud computng?
+Cloud is the customized and on-demand delivery of resources over the Internet with pay-as-you-go pricing.as per the resouces used you pay cost which is called as rent.
 
 Cloud mainly have 3 types:
 
