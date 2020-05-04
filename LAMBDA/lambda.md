@@ -74,19 +74,20 @@ and now you can click on create.
 10. step 10: You can see on the window i have change key3 value to test,if you will not change this to test then it will give you undefined value at key3.and also dont forget to save the changes you have made.then click on test.
 
 
-
+![image](https://user-images.githubusercontent.com/63588827/80957851-9ef2d200-8e21-11ea-9f9d-ff06905b5d6d.png)
 
 
 11. step 11: scroll up and click on details.you will see all the details for execution of code.
 
 
-![image](https://user-images.githubusercontent.com/63588827/80922598-d7e86380-8d9b-11ea-99dd-7602253eae87.png)
+![image](https://user-images.githubusercontent.com/63588827/80958401-9c44ac80-8e22-11ea-977d-ac192144dd01.png)
 
 
-you  can output and you changed values in the output.
+
+you  can see output and your changed values in the output.
 
 
-![image](https://user-images.githubusercontent.com/63588827/80922617-fcdcd680-8d9b-11ea-9053-dbc89e4c7558.png)
+![image](https://user-images.githubusercontent.com/63588827/80958534-d01fd200-8e22-11ea-8c3b-cf0bd0b7a659.png)
 
 
 12. step 12:whenever you do not need a function you can delete the function by selecting it from the list.
@@ -95,4 +96,46 @@ you  can output and you changed values in the output.
 ![image](https://user-images.githubusercontent.com/63588827/80922682-55ac6f00-8d9c-11ea-938e-4190518c49ce.png)
 
 
+
+## NOW WE WILL SEE LAMBDA AS A EVENT DRIVEN (AUTOMATED) SERVICE
+
+we are going to fire lambda function whenever any file uploaded to s3.for that we have to follow steps given below:
+
+1. step 1: Go to the S3 services.
+2. step 2: go to Any bucket you want or create bucket and click on the bucket name.
+3. step 3: now go to properties menu.there you will find 'event' in the advanced settings.click on the events.
+4. step 4: click on 'add notification'
+
+![image](https://user-images.githubusercontent.com/63588827/80960431-75887500-8e26-11ea-9d71-355bb83e27e3.png)
+
+
+5. step 5: give name to the event.select the events details.prefix and suffix are used for event trigger.eg if you want to trigger lambda function only if any file name with cdac suffix of cdac prefix is present.then you can select 'sent to' from the dropdown to which you want send the event trigger and  then selection lambda function present in the dropdown.and then click on 'save'.
+
+
+![image](https://user-images.githubusercontent.com/63588827/80960601-cf893a80-8e26-11ea-98b1-18e44b4c4642.png)
+
+
+6. step 6: now select the event and click save.
+
+
+![image](https://user-images.githubusercontent.com/63588827/80960967-91404b00-8e27-11ea-90a4-a1e052b404c5.png)
+
+
+7. step 7: now open lambda to the new window.
+8. step 8: go to your lambda and do some changes then you can find out some difference in execution so that you can differentiate between old and new lambda function.after changes click on save do not test it.
+
+![image](https://user-images.githubusercontent.com/63588827/80961319-55f24c00-8e28-11ea-9896-de16dd0c1e68.png)
+
+
+9. step 9: again go to your s3 and upload any one file to the s3.
+
+
+![image](https://user-images.githubusercontent.com/63588827/80961471-a9649a00-8e28-11ea-89ab-c797575be175.png)
+
+
+10. step 10: after successfully uploading the file.you can search for 'cloudwatch' in services.open cloudwatch in the new window.
+there you can see even fired in the list.
+
+
+![image](https://user-images.githubusercontent.com/63588827/80962522-d154fd00-8e2a-11ea-8890-b9e7041ddf76.png)
 
