@@ -63,17 +63,18 @@ If you made any changes click on save and then on test.
 ![image](https://user-images.githubusercontent.com/63588827/80922472-f69a2a80-8d9a-11ea-9bac-f03868131530.png)
 
 
-9. step 9: Enter the event name and you can change the key values e.g i have entered vita in place of value1 and dac in the place of value2
-and click on create.
+9. step 9: Enter the event name and you can change the key values e.g i have entered hey in place of value1 and event in the place of value2,bye in the place of valuue 3 and also i have changed the key3 name as test.
+and now you can click on create.
 
 
-![image](https://user-images.githubusercontent.com/63588827/80922508-3b25c600-8d9b-11ea-95fe-1416c4909cad.png)
+![image](https://user-images.githubusercontent.com/63588827/80954301-c2fee500-8e1a-11ea-9216-2eefdc9ef12f.png)
 
 
-10. step 10: now select the event from dropdown and click on test.
+
+10. step 10: You can see on the window i have change key3 value to test,if you will not change this to test then it will give you undefined value at key3.and also dont forget to save the changes you have made.then click on test.
 
 
-![image](https://user-images.githubusercontent.com/63588827/80922540-76c09000-8d9b-11ea-88c4-f70178d5bcfb.png)
+
 
 
 11. step 11: scroll up and click on details.you will see all the details for execution of code.
