@@ -98,14 +98,14 @@ from the options.
 ![image](https://user-images.githubusercontent.com/63588827/80891501-043fa980-8ce2-11ea-9312-8ff246b7cd32.png)
 
 
-instance states:
+## instance states:
 
 - start: if your instance is in the stopped state you can again state by selecting start state.
 - stop: if you dont have use of your current instance you can stop it so it will affect on your cost which you are paying for your instance.for stopped instance you are only paying for your storage spcae and not for CPY and MEMORYY.
 - Terminate:you can permanently delete your instance by changing to this state.
 
 
+## features can be created from EC2
 
-
-
-
+1. [SNAPSHOT](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/EC2/snapshot.md)
+2. [IMAGE (AMI)](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/EC2/image.md)
