@@ -5,3 +5,4 @@
 3. [RDS](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/RDS/rds.md)
 4. [Lambda](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/LAMBDA/lambda.md)
 5. [CLOUDTRAIL & CLOUDWATCH](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/CLOUDTRAIL%20%26%20CLOUDWATCH/cloudtrail%26cloundwatch.md)
+6. [SNS](https://github.com/shweta-vengurlekar11/cloud/blob/SERVICES-PROVIDED-BY-AWS/SNS/sns.md)
